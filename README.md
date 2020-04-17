@@ -98,7 +98,7 @@ cargo build
 
 You will got
 ```
-error: could not find `Cargo.toml` in `/Users/feilong/Desktop/dev/starlab/rust-learn` or any parent directory
+error: could not find `Cargo.toml` in `/Users/{username}/Desktop/dev/starlab/rust-learn` or any parent directory
 ```
 
 Then you SHOULD goto 
