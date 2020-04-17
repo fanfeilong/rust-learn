@@ -4,16 +4,10 @@ understanding rust
 ## Platform
 * Operating System: MacOSX
 
-## Install Rust
-https://www.rust-lang.org/tools/install
-```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
-
 ## Install RustUp
 
-https://github.com/rust-lang/rustup.rs
-https://rustup.rs/
+* https://github.com/rust-lang/rustup.rs
+8 https://rustup.rs/
 
 if rust is alreayd install, and rustup is not found, just reinstall rustup:
 ```bash
