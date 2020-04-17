@@ -7,7 +7,7 @@ understanding rust
 ## Install RustUp
 
 * https://github.com/rust-lang/rustup.rs
-8 https://rustup.rs/
+* https://rustup.rs/
 
 if rust is alreayd install, and rustup is not found, just reinstall rustup:
 ```bash
