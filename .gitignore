@@ -5,3 +5,12 @@ src/*/*/target/debug
 src/*/*/target/release
 src/*/*/target/doc
 .rustrc_info.json
+
+src/*/target
+src/*/target/debug
+src/*/target/release
+
+
+src/target
+src/target/debug
+src/target/release
