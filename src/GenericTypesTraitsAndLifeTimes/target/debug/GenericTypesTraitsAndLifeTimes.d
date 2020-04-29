@@ -1,1 +1,0 @@
-/Users/feilong/Desktop/dev/starlab/rust-learn/src/GenericTypesTraitsAndLifeTimes/target/debug/GenericTypesTraitsAndLifeTimes: /Users/feilong/Desktop/dev/starlab/rust-learn/src/GenericTypesTraitsAndLifeTimes/src/main.rs
